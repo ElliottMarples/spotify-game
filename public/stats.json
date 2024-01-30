@@ -1,0 +1,44 @@
+{
+    "round1": {
+        "option1": {
+            "title": "The Passenger",
+            "artist": "Siouxsie and the Banshees",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730db79a3a0711b3e5949cad1a",
+            "answer": true
+        },
+        "option2": {
+            "title": "Tokyo (Vampires & Wolves)",
+            "artist": "The Wombats",
+            "image": "https://i.scdn.co/image/ab67616d0000b27398f81c7dd61cf4f69cb2fc7a",
+            "answer": false
+        }
+    },
+    "round2": {
+        "option1": {
+            "title": "Over My Head",
+            "artist": "James Marriott",
+            "image": "https://i.scdn.co/image/ab67616d0000b273194a0f27760307d96405f25f",
+            "answer": true
+        },
+        "option2": {
+            "title": "I Ran (So Far Away)",
+            "artist": "A Flock of Seagulls",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734d38e04627b3843ed3db042c",
+            "answer": false
+        }
+    },
+    "round3": {
+        "option1": {
+            "title": "Hard To Explain",
+            "artist": "The Strokes",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
+            "answer": true
+        },
+        "option2": {
+            "title": "Emotion Sickness",
+            "artist": "Queens of the Stone Age",
+            "image": "https://i.scdn.co/image/ab67616d0000b273df1999f84b4c1981ba570d17",
+            "answer": false
+        }
+    }
+}
